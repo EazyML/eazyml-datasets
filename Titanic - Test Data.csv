@@ -1,0 +1,27 @@
+Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare
+1,1,Miss. Rosalie Bidois,female,42,0,0,227.525
+1,3,Miss. Maria Nakid,female,1,0,2,15.7417
+0,3,Mr. Juho Tikkanen,male,32,0,0,7.925
+1,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson,female,35,1,0,52
+0,3,Mr. Vasil Plotcharsky,male,27,0,0,7.8958
+0,2,Mr. Charles Henry Davies,male,18,0,0,73.5
+0,3,Master. Sidney Leonard Goodwin,male,1,5,2,46.9
+1,2,Miss. Kate Buss,female,36,0,0,13
+0,3,Mr. Matthew Sadlier,male,19,0,0,7.7292
+1,2,Miss. Bertha Lehmann,female,17,0,0,12
+1,1,Mr. William Ernest Carter,male,36,1,2,120
+1,3,Mr. Carl Olof Jansson,male,21,0,0,7.7958
+0,3,Mr. Johan Birger Gustafsson,male,28,2,0,7.925
+1,1,Miss. Marjorie Newell,female,23,1,0,113.275
+1,3,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,female,24,0,2,16.7
+0,3,Mr. Erik Johansson,male,22,0,0,7.7958
+0,3,Miss. Elina Olsson,female,31,0,0,7.8542
+0,2,Mr. Peter David McKane,male,46,0,0,26
+0,2,Dr. Alfred Pain,male,23,0,0,10.5
+1,2,Mrs. William H (Jessie L) Trout,female,28,0,0,12.65
+1,3,Mr. Juha Niskanen,male,39,0,0,7.925
+0,3,Mr. John Adams,male,26,0,0,8.05
+0,3,Miss. Mari Aina Jussila,female,21,1,0,9.825
+0,3,Mr. Pekka Pietari Hakkarainen,male,28,1,0,15.85
+0,3,Miss. Marija Oreskovic,female,20,0,0,8.6625
+0,2,Mr. Shadrach Gale,male,34,1,0,21
